@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=EstherWMaina)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=EstherWMaina)](https://github.com/EstherWMaina/github-profile-trophy)
