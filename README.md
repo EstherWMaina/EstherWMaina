@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💬 Ask me about **React.js, Ruby on Rails**
-- 👯 I’m looking to collaborate on open source programs
 
 <h1 align="center">Hi 👋, I'm Esther Maina</h1>
 <!-- TODO: Replace with your intro text -->
@@ -25,6 +23,8 @@ Here are some ideas to get you started:
 <br/>
 
 - 🔭 I’m currently working on a personal website
+- 💬 Ask me about **React.js, Ruby on Rails**
+- 👯 I’m looking to collaborate on open source programs
 - 📫 How to reach me: mainaher34@gmail.com
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
