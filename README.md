@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 <br/>
 
 - 🔭 I’m currently working on a personal website
+
 - 💬 Ask me about **React.js, Ruby on Rails**
-- 👯 I’m looking to collaborate on open source programs
+
+- 👯 I’m looking to collaborate on open source projects
+
 - 📫 How to reach me: mainaher34@gmail.com
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
