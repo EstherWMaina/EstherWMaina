@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a personal website
+- 💬 Ask me about **React.js, Ruby on Rails**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Esther Maina</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">Just graduated from Moringa, readyc  to start my first internship experience!</h3>
+<h3 align="center">A passonate fullstack developer</h3>
 
 <br/>
 
