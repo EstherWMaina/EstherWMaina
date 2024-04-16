@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Esther Maina</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A passonate fullstack developer</h3>
+<h3 align="center">A passonate Data Scientist</h3>
 
 <br/>
 
