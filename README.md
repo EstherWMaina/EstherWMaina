@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Esther Maina</h1>
 <!-- TODO: Replace with your intro text -->
-<!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A passonate Data Scientist</h3>
+<!-- Example: Just graduated from Moringa, ready  to start my first internship experience! -->
+<h3 align="center">A Skilled Geo-Data Scientist</h3>
 
 <br/>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **React.js, Ruby on Rails**
 
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open-source projects
 
 - 📫 How to reach me: mainaher34@gmail.com
 
